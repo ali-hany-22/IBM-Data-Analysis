@@ -1,34 +1,34 @@
 # IBM Data Analysis Project
 
-هذا المشروع يحتوي على تحليلات بيانات باستخدام **Power BI** و **Jupyter Notebook (Python)**.  
-الهدف هو استكشاف البيانات، تنظيفها، واستخراج رؤى باستخدام أدوات مختلفة.
+This project includes data analysis using **Power BI** and **Jupyter Notebook (Python)**.  
+The goal is to explore the data, clean it, and extract insights using different tools.
 
 ---
 
-## 📂 مكونات المشروع
-- **ibm.pbix** → ملف Power BI يحتوي على تقارير ولوحات تحكم تفاعلية.
-- **Untitled-1.ipynb** → ملف Jupyter Notebook لتنفيذ خطوات التحليل باستخدام Python (Pandas, Matplotlib, Seaborn, ...).
+## 📂 Project Components
+- **ibm.pbix** → Power BI file containing interactive dashboards and reports.
+- **Untitled-1.ipynb** → Jupyter Notebook file for data analysis steps using Python (Pandas, Matplotlib, Seaborn, ...).
 
 ---
 
-## 🛠️ الأدوات المستخدمة
+## 🛠️ Tools Used
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
 - Power BI Desktop
 - Jupyter Notebook
 
 ---
 
-## 🚀 طريقة التشغيل
-1. افتح ملف **ibm.pbix** باستخدام Power BI Desktop لاستعراض التقارير.
-2. افتح ملف **Untitled-1.ipynb** باستخدام Jupyter Notebook أو VS Code لمراجعة كود التحليل.
+## 🚀 How to Run
+1. Open **ibm.pbix** with Power BI Desktop to view the dashboards.
+2. Open **Untitled-1.ipynb** with Jupyter Notebook or VS Code to review the analysis code.
 
 ---
 
-## 📊 المخرجات
-- لوحات Power BI تفاعلية تعرض الأنماط والاتجاهات في البيانات.
-- أكواد Python توضح خطوات تنظيف البيانات واستخراج الإحصاءات والرسوم البيانية.
+## 📊 Outputs
+- Interactive Power BI dashboards showing data patterns and trends.
+- Python scripts demonstrating data cleaning, statistical analysis, and visualizations.
 
 ---
 
-## ✨ ملاحظات
-يمكنك التعديل أو إضافة مصادر البيانات الخاصة بك لعرض تقارير جديدة أو اختبار تحليلات مختلفة.
+## ✨ Notes
+You can modify or add your own data sources to generate new reports or test different analyses.
